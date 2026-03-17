@@ -1,4 +1,4 @@
-Tone Architect: An AI Linguistics Discord Bot
+### Discord Tone Architect
 
 ## Overview
 Tone Architect is a localized Discord bot that acts as a conversational co-pilot. By using the OpenAI API and applying core linguistic principles (Grice’s Maxims and Politeness Theory), the bot analyzes user messages to determine their underlying "vibe" and generates three possible contextual rewrites: softened, professional, and direct.
