@@ -38,4 +38,4 @@ Prompt Tuning: Users noted the "Direct" rewrite occasionally produced unnatural,
 
 Scoring Logic Bug: A user discovered that re-feeding the bot its own suggested replies sometimes yielded a lower Vibe Score than the original blunt message. V1.1 will implement comparative anchor logic to stabilize the algorithm.
 
-Friction Reduction: Survey completion dropped off by 37.5% due to the friction of clicking an external Google Form link. Future versions will integrate Discord Reaction Emojis (👍/👎) for frictionless, in-app data collection.
+Friction Reduction: Survey completion dropped off by 37.5% due to the friction of clicking an external Google Form link. Future versions will integrate Discord Reaction Emojis for frictionless, in-app data collection.
