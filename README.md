@@ -1,6 +1,7 @@
 # Discord Tone Architect
 
-<img src="https://github.com/user-attachments/assets/3db1076-d7b8-4a12-a976-8e9bfc11ed56" width="600">
+![tone_architect_rec1](https://github.com/user-attachments/assets/e08027f4-5630-46fc-83c3-6be87b465c8b)
+
 
 ## Overview
 Tone Architect is a localized Discord bot that acts as a conversational co-pilot. By using the OpenAI API and applying core linguistic principles (Grice’s Maxims and Politeness Theory), the bot analyzes user messages to determine their underlying "vibe" and generates three possible contextual rewrites: softened, professional, and direct.
