@@ -1,6 +1,6 @@
 # Discord Tone Architect
 
-![tone_architect_rec1](https://github.com/user-attachments/assets/e08027f4-5630-46fc-83c3-6be87b465c8b)
+<img src="https://github.com/user-attachments/assets/e08027f4-5630-46fc-83c3-6be87b465c8b" width="550" alt="Tone Architect Demo">
 
 
 ## Overview
