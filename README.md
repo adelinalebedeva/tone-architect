@@ -1,6 +1,6 @@
 # Discord Tone Architect
 
-🚀[Install Tone Architect on your Server](https://discord.com/oauth2/authorize?client_id=1481018181580619898&permissions=2147567616&integration_type=0&scope=bot+applications.commands)
+🚀 [Install Tone Architect on your Server](https://discord.com/oauth2/authorize?client_id=1481018181580619898&permissions=2147567616&integration_type=0&scope=bot+applications.commands)
 
 <img src="https://github.com/user-attachments/assets/e08027f4-5630-46fc-83c3-6be87b465c8b" width="750" alt="Tone Architect Demo">
 
