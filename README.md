@@ -1,6 +1,6 @@
 # Discord Tone Architect
 
-[![Discord](https://img.shields.io/discord/YOUR_SERVER_ID?label=Join%20the%20Playground&logo=discord&style=for-the-badge)](https://discord.gg/pP5GNKNn)
+### 🚀 [Try the Demo in our Discord Server](https://discord.gg/pP5GNKNn)
 
 <img src="https://github.com/user-attachments/assets/e08027f4-5630-46fc-83c3-6be87b465c8b" width="750" alt="Tone Architect Demo">
 
